@@ -1,0 +1,28 @@
+{
+  "name": "@wheelmaker/object-helpers",
+  "version": "1.0.1",
+  "description": "object helpers written in plain js (es6 included)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattquest/JsObjectHelpers.git"
+  },
+  "keywords": [
+    "javascript",
+    "objects",
+    "helpers",
+    "object",
+    "helpers",
+    "javascript",
+    "helpers"
+  ],
+  "author": "Matt Rademacher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattquest/JsObjectHelpers/issues"
+  },
+  "homepage": "https://github.com/mattquest/JsObjectHelpers#readme"
+}
